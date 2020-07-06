@@ -1,1 +1,1 @@
-# RobClustTimeSeries"Probeersel line vanuit cmd." 
+# RobClustTimeSeries: package for clustering Time Series
